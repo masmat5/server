@@ -1,5 +1,5 @@
 module.exports = {
-    server: "localhost\\SQLEXPRESS01",
+    server: "SQLEXPRESS01",
     user: 'sa',
     password:"1234",
     database: "sales",
